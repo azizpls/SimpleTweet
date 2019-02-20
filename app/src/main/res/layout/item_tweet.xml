@@ -6,6 +6,7 @@
     android:layout_height="wrap_content"
     android:layout_margin="5dp">
 
+
     <ImageView
         android:id="@+id/ivProfileImage"
         android:layout_width="50dp"
@@ -30,4 +31,13 @@
         android:layout_below="@+id/tvScreenName"
         android:layout_toEndOf="@+id/ivProfileImage"
         tools:text="Check out this tweet!" />
+
+    <TextView
+        android:id="@+id/tvTimestamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        tools:text="23m" />
 </RelativeLayout>
+
