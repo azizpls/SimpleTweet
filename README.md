@@ -71,7 +71,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/azizpls/SimpleTweet/blob/309b6f1c33c69649f078008eaa327dbfaef3e800/simpleTweet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/azizpls/SimpleTweet/blob/master/part2walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
